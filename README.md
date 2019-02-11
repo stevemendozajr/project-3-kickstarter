@@ -3,10 +3,9 @@
 ## Overview
 
 
-Words go here
+A deep dive into the Kickstarter dataset
 
-More words here 
 
-## Another Header Here
+### [Project 3 - Kickstarter - A Deep Dive into the Kickstarter dataset](https://stevemendozajr.github.io/project-3-kickstarter/index.html)
 
 
